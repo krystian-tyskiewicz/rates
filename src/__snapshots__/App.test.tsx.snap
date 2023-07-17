@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <header
+    class="css-88xhfi"
+  >
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-a6n7e6-MuiTypography-root"
+    >
+      Current exchange rates table
+    </p>
+  </header>
+  <main
+    class="css-v8nvhr"
+  >
+    <div
+      class="css-382zww"
+    >
+      Routes
+    </div>
+  </main>
+  <footer
+    class="css-88xhfi"
+  >
+    <p
+      class="MuiTypography-root MuiTypography-body1 css-a6n7e6-MuiTypography-root"
+    >
+      https://api.nbp.pl/
+    </p>
+  </footer>
+</div>
+`;

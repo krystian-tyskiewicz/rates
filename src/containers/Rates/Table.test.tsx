@@ -1,10 +1,9 @@
 import { render } from '@testing-library/react'
 
-import App from './App'
-
-jest.mock('./Routes', () => () => 'Routes')
+import Table from './Table'
+import { rates } from 'utils/mocks'
 
 it('renders correctly', () => {
-  const { container } = render(<App />)
+  const { container } = render(<Table rates={rates} />)
   expect(container).toMatchSnapshot()
 })
