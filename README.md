@@ -1,4 +1,4 @@
-## 🚀 ReactJS, Typescript, Redux Toolkit, React Router, Styled Components, Material UI, Jest
+![Screenshot 2023-09-25 at 15 00 37](https://github.com/krystian-tyskiewicz/rates/assets/10433595/d9581578-19f4-4602-89c5-99f7e584c807)
 
 ## Available Scripts
 
