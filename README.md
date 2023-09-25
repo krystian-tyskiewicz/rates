@@ -1,4 +1,4 @@
-![Screenshot 2023-09-25 at 15 00 37](https://github.com/krystian-tyskiewicz/rates/assets/10433595/d9581578-19f4-4602-89c5-99f7e584c807)
+![Screenshot 2023-09-25 at 15 10 20](https://github.com/krystian-tyskiewicz/rates/assets/10433595/6234e9d1-5b37-43e3-81a9-4d54d706c8ad)
 
 ## Available Scripts
 
